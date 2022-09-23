@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Cloud and Devops Series 🔥</h1>
-<img src="Announcement.png"/>
+<img src="Announcement.png" href="https://www.youtube.com/playlist?list=PLx8CItc_kq638wR38gXDP7yIIC4iJPPxb"/>
 </div>
 
 
@@ -20,10 +20,8 @@
   </a>
 
 
-
-
  
-## Contributions Welcome❤️
+## Contributions Welcome ❤️
 <a href = "https://github.com/saadhaxxan/DSA-Bootcamp-Cpp/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=saadhaxxan/DSA-Bootcamp-Cpp"/>
 </a>
