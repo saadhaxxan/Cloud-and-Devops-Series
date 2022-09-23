@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Cloud and Devops Series 🔥</h1>
-<img src="Announcement.png" href="https://www.youtube.com/playlist?list=PLx8CItc_kq638wR38gXDP7yIIC4iJPPxb"/>
+<img src="Announcement.png" src="https://www.youtube.com/playlist?list=PLx8CItc_kq638wR38gXDP7yIIC4iJPPxb"/>
 </div>
 
 
